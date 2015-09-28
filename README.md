@@ -2,9 +2,9 @@
 
 [![NPM version](https://img.shields.io/npm/v/grunt-banner.svg)](https://www.npmjs.com/package/grunt-banner)
 [![Build Status](https://img.shields.io/travis/GerHobbelt/grunt-banner/master.svg)](https://travis-ci.org/GerHobbelt/grunt-banner)
-[![Dependency Status](https://img.shields.io/david/mattstyles/grunt-banner.svg)](https://david-dm.org/mattstyles/grunt-banner#info=deependencies)
-[![peerDependency Status](https://img.shields.io/david/peer/mattstyles/grunt-banner.svg)](https://david-dm.org/mattstyles/grunt-banner#info=peerDependencies)
-[![devDependency Status](https://img.shields.io/david/dev/mattstyles/grunt-banner.svg)](https://david-dm.org/mattstyles/grunt-banner#info=devDependencies)
+[![Dependency Status](https://img.shields.io/david/GerHobbelt/grunt-banner.svg)](https://david-dm.org/GerHobbelt/grunt-banner#info=deependencies)
+[![peerDependency Status](https://img.shields.io/david/peer/GerHobbelt/grunt-banner.svg)](https://david-dm.org/GerHobbelt/grunt-banner#info=peerDependencies)
+[![devDependency Status](https://img.shields.io/david/dev/GerHobbelt/grunt-banner.svg)](https://david-dm.org/GerHobbelt/grunt-banner#info=devDependencies)
 
 > Adds a simple banner to files
 

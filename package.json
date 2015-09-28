@@ -2,7 +2,7 @@
   "name": "grunt-banner",
   "description": "Adds a simple banner to files",
   "version": "0.5.0",
-  "homepage": "https://github.com/mattstyles/grunt-banner",
+  "homepage": "https://github.com/GerHobbelt/grunt-banner",
   "author": {
     "name": "Matt Styles",
     "email": "matt@veryfizzyjelly.com",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mattstyles/grunt-banner.git"
+    "url": "git+https://github.com/GerHobbelt/grunt-banner.git"
   },
   "bugs": {
     "url": "https://github.com/mattstyles/grunt-banner/issues"
